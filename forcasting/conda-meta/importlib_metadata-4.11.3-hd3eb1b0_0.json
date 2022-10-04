@@ -1,0 +1,39 @@
+{
+  "build": "hd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "importlib-metadata >=4.11.3,<4.11.4.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\lenovo\\anaconda3\\pkgs\\importlib_metadata-4.11.3-hd3eb1b0_0",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "importlib_metadata-4.11.3-hd3eb1b0_0.conda",
+  "legacy_bz2_md5": "827983ac8b3f0c85c474326141c4e8ab",
+  "license": "Apache-2.0",
+  "license_family": "APACHE",
+  "link": {
+    "source": "C:\\Users\\lenovo\\anaconda3\\pkgs\\importlib_metadata-4.11.3-hd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "75a3ad10bde0ed37a345fc69ddf76475",
+  "name": "importlib_metadata",
+  "noarch": "generic",
+  "package_tarball_full_path": "C:\\Users\\lenovo\\anaconda3\\pkgs\\importlib_metadata-4.11.3-hd3eb1b0_0.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "52823874755941571fda05019b9c10236a484fcc192e3670cc12f3ec32b572f0",
+  "size": 12527,
+  "subdir": "noarch",
+  "timestamp": 1648544574857,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/importlib_metadata-4.11.3-hd3eb1b0_0.conda",
+  "version": "4.11.3"
+}

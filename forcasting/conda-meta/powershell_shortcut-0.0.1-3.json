@@ -1,0 +1,56 @@
+{
+  "build": "3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [
+    "anaconda-navigator >=1.9.8"
+  ],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\lenovo\\anaconda3\\pkgs\\powershell_shortcut-0.0.1-3",
+  "features": "",
+  "files": [
+    "Menu/Iconleak-Atrous-PSConsole.ico",
+    "Menu/powershell_shortcut.json",
+    ".nonadmin",
+    "Menu/powershell_shortcut.json"
+  ],
+  "fn": "powershell_shortcut-0.0.1-3.conda",
+  "legacy_bz2_md5": "c1eb890d06678c9730ce08ba9fd8d688",
+  "license": "BSD",
+  "link": {
+    "source": "C:\\Users\\lenovo\\anaconda3\\pkgs\\powershell_shortcut-0.0.1-3",
+    "type": 1
+  },
+  "md5": "04d7f30365171dc60e4294ab53cfa3d1",
+  "name": "powershell_shortcut",
+  "package_tarball_full_path": "C:\\Users\\lenovo\\anaconda3\\pkgs\\powershell_shortcut-0.0.1-3.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Menu/Iconleak-Atrous-PSConsole.ico",
+        "path_type": "hardlink",
+        "sha256": "92183372a2d388578c5c7b9d72c7b4c1aaccd9078ec44fd12b500777026a3395",
+        "sha256_in_prefix": "92183372a2d388578c5c7b9d72c7b4c1aaccd9078ec44fd12b500777026a3395",
+        "size_in_bytes": 432254
+      },
+      {
+        "_path": "Menu/powershell_shortcut.json",
+        "path_type": "hardlink",
+        "sha256": "d18a96781d8546eb5906c264086aea75df7669212b8a30ef69003031ad86d04d",
+        "sha256_in_prefix": "d18a96781d8546eb5906c264086aea75df7669212b8a30ef69003031ad86d04d",
+        "size_in_bytes": 474
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "powershell_shortcut",
+  "sha256": "0b60d6a8eb00d0e6238d83dea1e3d9e45879ede043ac6b968f9902f92a86b549",
+  "size": 284029,
+  "subdir": "win-64",
+  "timestamp": 1579805605605,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/powershell_shortcut-0.0.1-3.conda",
+  "version": "0.0.1"
+}

@@ -1,0 +1,84 @@
+==> 2022-04-09 00:23:20 <==
+# cmd: C:\Users\lenovo\anaconda3\Scripts\conda-script.py create --yes --json --prefix C:\Users\lenovo\anaconda3\envs\forcasting python=3.8
+# conda version: 4.11.0
++defaults/noarch::wheel-0.37.1-pyhd3eb1b0_0
++defaults/win-64::ca-certificates-2022.3.29-haa95532_0
++defaults/win-64::certifi-2021.10.8-py38haa95532_2
++defaults/win-64::openssl-1.1.1n-h2bbff1b_0
++defaults/win-64::pip-21.2.2-py38haa95532_0
++defaults/win-64::python-3.8.13-h6244533_0
++defaults/win-64::setuptools-58.0.4-py38haa95532_0
++defaults/win-64::sqlite-3.38.2-h2bbff1b_0
++defaults/win-64::vc-14.2-h21ff451_1
++defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
++defaults/win-64::wincertstore-0.2-py38haa95532_2
+# update specs: ['python=3.8']
+==> 2022-04-09 00:24:33 <==
+# cmd: C:\Users\lenovo\anaconda3\Scripts\conda-script.py install --yes --json --force-pscheck --prefix C:\Users\lenovo\anaconda3\envs\forcasting notebook
+# conda version: 4.11.0
++defaults/noarch::argon2-cffi-21.3.0-pyhd3eb1b0_0
++defaults/noarch::asttokens-2.0.5-pyhd3eb1b0_0
++defaults/noarch::attrs-21.4.0-pyhd3eb1b0_0
++defaults/noarch::backcall-0.2.0-pyhd3eb1b0_0
++defaults/noarch::bleach-4.1.0-pyhd3eb1b0_0
++defaults/noarch::colorama-0.4.4-pyhd3eb1b0_0
++defaults/noarch::decorator-5.1.1-pyhd3eb1b0_0
++defaults/noarch::defusedxml-0.7.1-pyhd3eb1b0_0
++defaults/noarch::executing-0.8.3-pyhd3eb1b0_0
++defaults/noarch::importlib_metadata-4.11.3-hd3eb1b0_0
++defaults/noarch::ipython_genutils-0.2.0-pyhd3eb1b0_1
++defaults/noarch::jinja2-3.0.3-pyhd3eb1b0_0
++defaults/noarch::jsonschema-3.2.0-pyhd3eb1b0_2
++defaults/noarch::jupyter_client-7.1.2-pyhd3eb1b0_0
++defaults/noarch::jupyterlab_pygments-0.1.2-py_0
++defaults/noarch::matplotlib-inline-0.1.2-pyhd3eb1b0_2
++defaults/noarch::nbclient-0.5.11-pyhd3eb1b0_0
++defaults/noarch::nbformat-5.1.3-pyhd3eb1b0_0
++defaults/noarch::nest-asyncio-1.5.1-pyhd3eb1b0_0
++defaults/noarch::packaging-21.3-pyhd3eb1b0_0
++defaults/noarch::pandocfilters-1.5.0-pyhd3eb1b0_0
++defaults/noarch::parso-0.8.3-pyhd3eb1b0_0
++defaults/noarch::pickleshare-0.7.5-pyhd3eb1b0_1003
++defaults/noarch::prometheus_client-0.13.1-pyhd3eb1b0_0
++defaults/noarch::prompt-toolkit-3.0.20-pyhd3eb1b0_0
++defaults/noarch::pure_eval-0.2.2-pyhd3eb1b0_0
++defaults/noarch::pycparser-2.21-pyhd3eb1b0_0
++defaults/noarch::pygments-2.11.2-pyhd3eb1b0_0
++defaults/noarch::pyparsing-3.0.4-pyhd3eb1b0_0
++defaults/noarch::python-dateutil-2.8.2-pyhd3eb1b0_0
++defaults/noarch::send2trash-1.8.0-pyhd3eb1b0_1
++defaults/noarch::six-1.16.0-pyhd3eb1b0_1
++defaults/noarch::stack_data-0.2.0-pyhd3eb1b0_0
++defaults/noarch::testpath-0.5.0-pyhd3eb1b0_0
++defaults/noarch::traitlets-5.1.1-pyhd3eb1b0_0
++defaults/noarch::typing-extensions-4.1.1-hd3eb1b0_0
++defaults/noarch::typing_extensions-4.1.1-pyh06a4308_0
++defaults/noarch::wcwidth-0.2.5-pyhd3eb1b0_0
++defaults/noarch::zipp-3.7.0-pyhd3eb1b0_0
++defaults/win-64::argon2-cffi-bindings-21.2.0-py38h2bbff1b_0
++defaults/win-64::cffi-1.15.0-py38h2bbff1b_1
++defaults/win-64::debugpy-1.5.1-py38hd77b12b_0
++defaults/win-64::entrypoints-0.3-py38_0
++defaults/win-64::importlib-metadata-4.11.3-py38haa95532_0
++defaults/win-64::ipykernel-6.9.1-py38haa95532_0
++defaults/win-64::ipython-8.2.0-py38haa95532_0
++defaults/win-64::jedi-0.18.1-py38haa95532_1
++defaults/win-64::jupyter_core-4.9.2-py38haa95532_0
++defaults/win-64::markupsafe-2.0.1-py38h2bbff1b_0
++defaults/win-64::mistune-0.8.4-py38he774522_1000
++defaults/win-64::nbconvert-6.1.0-py38haa95532_0
++defaults/win-64::notebook-6.4.8-py38haa95532_0
++defaults/win-64::pyrsistent-0.18.0-py38h196d8e1_0
++defaults/win-64::pywin32-302-py38h827c3e9_1
++defaults/win-64::pywinpty-2.0.2-py38h5da7b33_0
++defaults/win-64::pyzmq-22.3.0-py38hd77b12b_2
++defaults/win-64::terminado-0.13.1-py38haa95532_0
++defaults/win-64::tornado-6.1-py38h2bbff1b_0
++defaults/win-64::webencodings-0.5.1-py38_1
++defaults/win-64::winpty-0.4.3-4
+# update specs: ['notebook']
+==> 2022-04-09 01:00:24 <==
+# cmd: C:\Users\lenovo\anaconda3\Scripts\conda-script.py install --yes --json --force-pscheck --prefix C:\Users\lenovo\anaconda3\envs\forcasting powershell_shortcut
+# conda version: 4.11.0
++defaults/win-64::powershell_shortcut-0.0.1-3
+# update specs: ['powershell_shortcut']
